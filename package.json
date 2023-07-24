@@ -1,0 +1,39 @@
+{
+  "name": "global-modal-with-react",
+  "version": "1.0.0",
+  "description": null,
+  "keywords": [
+    "global modal",
+    "recoil"
+  ],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "@emotion/react": "11.5.0",
+    "@emotion/styled": "11.1.5",
+    "@mui/material": "5.0.6",
+    "@mui/styled-engine-sc": "5.0.4",
+    "@types/react": "17.0.33",
+    "@types/react-dom": "17.0.10",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-scripts": "4.0.3",
+    "recoil": "0.4.1"
+  },
+  "devDependencies": {
+    "@types/react": "16.9.19",
+    "@types/react-dom": "16.9.5",
+    "typescript": "3.7.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
